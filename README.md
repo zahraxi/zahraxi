@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahraxi
 - 👀 I’m interested in Game development and cybersecurity
 - 👩‍💻programmer 
-- Game development
+- Game developmer
 - 📫 How to reach me ... zahrahussain98ii@hotmail.com
 
 <!---
